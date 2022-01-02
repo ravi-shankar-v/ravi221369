@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ravi Shankar V
 - 👀 I’m interested in Programming and Scalable Architectures
-- 🌱 I’m currently learning Algorithms and Datastructures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React and Node
 
 <!---
 ravi221369/ravi221369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
